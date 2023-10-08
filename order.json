@@ -1,0 +1,16 @@
+[
+    {
+        "itemname": "Coca Cola",
+        "quantity": 2,
+        "price": 90,
+        "phonenumber": "0913095086",
+        "orderid": 12166
+    },
+    {   
+        "itemname": "Coca Cola",
+        "quantity": 2,
+        "price": 90,
+        "phonenumber": "0913095086",
+        "orderid": 12166
+    }
+]
